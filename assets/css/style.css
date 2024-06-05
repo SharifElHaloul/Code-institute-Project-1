@@ -1,18 +1,29 @@
-@import url('https://fonts.googleapis.com/css2?family=Aldrich&family=Asul:wght@400;700&family=Petrona:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aldrich&family=Allura&family=Asul:wght@400;700&family=Neonderthaw&family=Pacifico&family=Petrona:ital,wght@0,100..900;1,100..900&family=Tilt+Neon&display=swap');
 
 /*------------------------------------ Header */
 .header-banner {
     padding: 15px;
+    background-color: #1f2122;
 }
 
 .logo-main a {
-    font-family: "Aldrich", sans-serif;
-    text-decoration: none;
+    font-family: "Neonderthaw", sans-serif;
+    text-decoration: underline;
+    text-decoration-color: #8bf2fc;
     color: #D65DB1;
+    
+    
 }
 
 .logo-main h2 {
     font-size: 300%;
+    border: 2px solid #F9F871;
+    border-radius: 15px;
+    max-width: 550px;
+    padding-left: 35px;
+    padding-bottom: 5px;
+    
+    
 }
 
 .logo-main:hover {
@@ -25,16 +36,22 @@
 
 .nav-link a {
     color: #D65DB1;
+    padding: 5px;
+    font-family: "Tilt Neon", sans-serif;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
 }
 
 .nav-link a:hover {
-    color: #845EC2;
+    color: #8bf2fc;
     text-decoration: none;
-    border-bottom: 1px dashed #D65DB1;
+    border-bottom: 1px dashed #F9F871;
 }
 
 .active {
-    border-bottom: 1px solid #D65DB1;
+    border-bottom: 1px solid #F9F871;
 }
 
 .nav {
@@ -45,10 +62,106 @@
 /*------------------------------------ Hero image */
 
 .img-fluid {
-    max-height: 600px;
+    max-height: 700px;
     width: 65%;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 1%;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#hero-image {
+    background-color: #1a1a1a;
+}
+
+/*------------------------------------ Info section */
+
+.info-section {
+    background-color: #1f2122;
+}
+
+.about-us, .what-we-do {
+    color: #fafafa;
+    text-align: center;
+    padding: 50px 100px;
+    font-size: 110%;
+}
+
+.about-us h2, .what-we-do h2 {
+    color: #D65DB1;
+    font-family: "Tilt Neon", sans-serif;
+}
+
+
+
+.fa-ghost {
+    color:#F9F871;
+    font-size: 80%;
+    padding-right: 5px;
+    
+}
+
+.fa-rocket {
+    color:#F9F871;
+    font-size: 80%;
+    padding-right: 5px;
+}
+
+/*------------------------------------ Footer */
+
+.copyright p {
+    font-size: 70%;
+}
+
+.timetable, .socials, .copyright {
+    text-align: center;
+    color: #F9F871;
+}
+
+.timetable p, .copyright p {
+    color:#D65DB1;
+}
+
+.cv-pdf i {
+    font-size: 18px;
+    color: #fafafa;
+    text-align: center;
+    padding-left: 5px;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.cv-pdf i:hover {
+    color: #8bf2fc;
+}
+
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color:#fafafa;
+    background: #D65DB1;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background: #8bf2fc;
+}
+
+#footer-details {
+    background-color: #1c1c1c;
+    padding: 27px;
+    
 }
