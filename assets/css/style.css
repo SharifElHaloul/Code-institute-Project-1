@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Aldrich&family=Asul:wght@400;700&family=Petrona:ital,wght@0,100..900;1,100..900&display=swap');
+
+/*------------------------------------ Header */
+.header-banner {
+    padding: 15px;
+}
+
+.logo-main a {
+    font-family: "Aldrich", sans-serif;
+    text-decoration: none;
+    color: #D65DB1;
+}
+
+.logo-main h2 {
+    font-size: 300%;
+}
+
+.logo-main:hover {
+    text-decoration: none;
+}
+
+.nav-link {
+    font-size: 150%;
+}
+
+.nav-link a {
+    color: #D65DB1;
+}
+
+.nav-link a:hover {
+    color: #845EC2;
+    text-decoration: none;
+    border-bottom: 1px dashed #D65DB1;
+}
+
+.active {
+    border-bottom: 1px solid #D65DB1;
+}
+
+.nav {
+    padding-right: 20px;
+    font-family: "Aldrich", sans-serif;
+}
