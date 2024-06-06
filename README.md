@@ -22,8 +22,23 @@ as above I had to change to make sure to specifically target links to make sure 
                         <li class="nav-link active">
                             <a class="active" href="index.html">Home</a>
                         </li>
+```
 
+3. Could not seem to centre align text in my divs that had bootstrap columns assigned to them no matter how specifically I targEted them. After much searching I found the bootsrap "text-center" class which fixed this:
 
+```HTML
+
+<div class="row text-center">
+            <div class="col-md-6 col-lg-3" > 
+                <img src="assets/images/dublin.jpg" class="img-fluid" alt="Dublin">
+
+                <h4>Dublin</h4>
+
+                <p>Our oldest location. Located in busy Fairview area we have a 3 floor location with all the equipment
+                    you will need to take start your journey</p>
+
+                    <button type="button" class="btn btn-outline-warning">Book Now</button>
+```
 
 
 ## code: 

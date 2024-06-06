@@ -1,6 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Aldrich&family=Allura&family=Asul:wght@400;700&family=Neonderthaw&family=Pacifico&family=Petrona:ital,wght@0,100..900;1,100..900&family=Tilt+Neon&display=swap');
 
+
+.location-header {
+    color: #D65DB1;
+}
+
 /*------------------------------------ Header */
+body {
+    text-align: none;
+}
+
 .header-banner {
     padding: 15px;
     background-color: #1f2122;
@@ -164,4 +173,10 @@
     background-color: #1c1c1c;
     padding: 27px;
     
+}
+
+/*------------------------------------ Locations */
+
+.location-header {
+    color: #8bf2fc;
 }
