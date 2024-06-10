@@ -39,7 +39,23 @@ as above I had to change to make sure to specifically target links to make sure 
 
                     <button type="button" class="btn btn-outline-warning">Book Now</button>
 ```
+4. 3rd picture in my classes page had a slightly bigger height than other images despite the img fluid class so to fix this I had to inspect the height of the other images on a large screen and set height of all images to 300 pixels so they all looked uniform on all screen sizes:
 
+```css
+
+.classes img {
+    max-height: 300px;
+}
+
+```
+
+before: 
+
+![Class Image Bug](assets/images/class-image-bug.png)
+
+after:
+
+![Class Image Bug](assets/images/class-image-bug-fixed.png)
 
 ## code: 
 
