@@ -177,6 +177,70 @@ body {
 
 /*------------------------------------ Locations */
 
-.location-header {
-    color: #8bf2fc;
+h2 {
+    font-size: 3rem;
 }
+
+.location-header {
+    color: #D65DB1;
+    font-family: "Aldrich", sans-serif;
+    background-color: #1a1a1a;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    
+}
+
+.location-section .img-fluid {
+    width: 90%;
+    transition: transform .2s;
+}
+
+
+
+.location-section .img-fluid:hover {
+    transform: scale(1.25);
+    overflow: hidden;
+}
+
+.location-section {
+    background-color: #1a1a1a;
+    color: #fafafa;
+}
+
+.location-section h4 {
+    color:#F9F871;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: "Tilt Neon", sans-serif;
+}
+
+.location-section p {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: "Petrona", sans-serif;
+}
+
+.btn-outline-warning {
+    color:#8bf2fc;
+    border-color:#8bf2fc;
+    padding-bottom: 10px;
+}
+
+.btn-outline-warning:hover {
+    background-color: #8bf2fc;
+}
+
+.img-wrapper {
+    display: inline-block;
+    overflow: hidden;
+
+}
+
+/*------------------------------------ Media */
+
+@media (min-width: 768px) {
+    .location-section {
+        min-height: 650px;
+    }
+ }
+
