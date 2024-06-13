@@ -313,13 +313,34 @@ h2 {
 
 /*------------------------------------ Contact-section */
 
+.contact-whole {
+    background-color:#1a1a1a;
+}
+
+
 .contact-details {
     text-align: center;
+    color: #F9F871;
+    
     
 }
 
 .contact-details h4 {
-    padding-top: 20px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.contact-details i {
+    padding-right: 7px;
+    color: #8bf2fc;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+    height: 30%;
+    width: 40%;
+    padding-bottom: 10px;
 }
 
 /*------------------------------------ Media */
