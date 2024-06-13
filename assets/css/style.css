@@ -289,7 +289,38 @@ h2 {
 
 /*------------------------------------ Form-section */
 
+.contact-form-edit {
+    padding: 10px 5%;
+    background-color: #1a1a1a;
+    color: #F9F871;
+    
+}
 
+.btn-primary {
+    color:#8bf2fc;
+    border-color:#8bf2fc;
+    padding-bottom: 10px;
+    background-color:#1a1a1a;
+}
+
+.btn-primary:hover {
+    background-color: #8bf2fc;
+}
+
+#email-disc{ 
+    color: #8bf2fc;
+}
+
+/*------------------------------------ Contact-section */
+
+.contact-details {
+    text-align: center;
+    
+}
+
+.contact-details h4 {
+    padding-top: 20px;
+}
 
 /*------------------------------------ Media */
 

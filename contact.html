@@ -56,18 +56,27 @@
 
         <div class="row">
             <div class="col-md-6">
+                <div class="contact-form-edit">
                 <form action="">
                     <div class="form-group">
 
                         <label for="input-email">Full Name:</label>
-                        <input type="email" class="form-control" id="input-name" aria-describedby="emailinput"
-                            placeholder="Enter full name">
+                        <input type="text" class="form-control" id="input-name" aria-describedby="emailinput"
+                            placeholder="Enter full name" required>
+
+                    </div>
+
+                    <div class="form-group">
 
                         <label for="input-name">Email address:</label>
                         <input type="email" class="form-control" id="input-email" aria-describedby="nameinput"
-                            placeholder="Enter email">
+                            placeholder="Enter email" required>
                         <small id="email-disc" class="form-text text-muted">We will never share your information with
                             anyone else.</small>
+
+                    </div>
+
+                    <div class="form-group">
 
                         <label for="location-select">Location:</label>
                         <select class="form-control" id="location-select">
@@ -78,24 +87,48 @@
 
                         </select>
 
-                            <label for="class-select">Example select</label>
-                            <select class="form-control" id="class-select">
+                    </div>
+
+                    <div class="form-group">
+
+                        <label for="class-select">Example select</label>
+                        <select class="form-control" id="class-select">
                             <option>Beginner</option>
                             <option>Classic</option>
                             <option>Advanced</option>
-                            
-                         </select>
 
-                         <div class="form-group">
-                            <label for="form-text-area">Any other information / Special requirements:</label>
-                            <textarea class="form-control" id="form-text-area" rows="3"></textarea>
-                          </div>
+                        </select>
+
                     </div>
+
+                    <div class="form-group">
+                        <label for="form-text-area">Any other information / Special requirements:</label>
+                        <textarea class="form-control" id="form-text-area" rows="3"></textarea>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary btn-lg">Submit</button>
+
+                </div>
+
+                    
                 </form>
             </div>
 
             <div class="col-md-6">
+                <divc class="contact-details">
+                    <h4>Contact details:</h4>
 
+                    <p>01453 618913</p>
+                    <p>Arcadebuild@arcadebuilds.com</p>
+                    <p>Facebook/Aracadebuildclub</p>
+                    <p>@Arcadebuildclub</p>
+
+                    <h4>Find us:</h4>
+
+                </div>
+                    
+                
+                
             </div>
         </div>
 
