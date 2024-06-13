@@ -332,7 +332,7 @@ h2 {
 
 .contact-details i {
     padding-right: 7px;
-    color: #8bf2fc;
+    color:#D65DB1;
 }
 
 iframe {
@@ -351,3 +351,12 @@ iframe {
     }
  }
 
+ @media (max-width: 576px) {
+    .about-us {
+        padding: 30px;
+    }
+
+    .what-we-do {
+        padding: 30px;
+    }
+ }
