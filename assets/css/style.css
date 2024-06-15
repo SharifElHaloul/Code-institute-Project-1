@@ -364,6 +364,16 @@ iframe {
     padding-bottom: 10px;
 }
 
+/*------------------------------------ Thank you section */
+
+.thank-you-section {
+    height: auto;
+}
+
+.thank-you-img-wrapper {
+    background: #1a1a1a;
+}
+
 /*------------------------------------ Media */
 
 @media (min-width: 768px) {
