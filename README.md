@@ -1,3 +1,196 @@
+# Sharif El Haloul Arcade Building Club Website
+
+This is my Milestone 1 project. I have chosen a website that allows users to join or enquire about an Arcade machine building club. To keep it nice and simple I have created four simple pages where they can find out about the club and also book classes. I have used the bootsrap style mobile first design as it is becoming more and more common for users to be looking at the application using this device.
+
+![Screen mock-ups of Arcade Building Club website](assets/images/device-images.png)
+
+[Link to Arcade Building club live wesbite](https://sharifelhaloul.github.io/Code-institute-Project-1/)
+
+
+## Table of Contents
+
+1. [Planning & Development]()
+2. [Features]()
+3. [Testing]()
+4. [Deployment]()
+5. [Languages]()
+6. [Media Queries]()
+7. [Software]()
+8. [Code]()
+9. [Credits]()
+
+
+# Planning & Development
+
+### Strategy
+
+I wanted to create a website that put users first. Making sure that on every page there is a call to action that allows the suer to get wherever they need to go. I have also created easy to access rsources and links which makes the website more fluid.
+
+### Target Audience
+
+I wanted to target a wide variety of ages of people who have a keen interest in either classic gaming or building projects. My target audience for classic gaming will mopst likely be middle aged to younger users. Due to this, I needed to make sure that my web page is fully responsive and aesthetically pleasing.
+
+### User stories 
+
+1. Viewing the website to find out more information
+2. Wanting contact details for more information
+3. Wanting to find out locations that are available for classes
+4. Wanting to book a class for themselves
+5. Wanting to book a class for someone else
+
+### Site Objectives
+
+* An introduction to the club and what they do
+* Display the locations that the club operates at
+* Display the types of classes that the club has to offer
+* Give the user a positive and fluid experience throughout the site
+* Easy to navigate through the different pages
+* Provide the users with contact information
+* To provide accessibility for screen readers
+* Links to social media and seperate timetable pdf
+
+### Approach
+
+* The information provided on the site will be displayed in manner that fits with the research done prior to starting the project
+* The site will be created following the principals of user experience design
+* The site will be easy to navigate and clear for all user ages
+* The site will provide inofrmation on club sites
+* The site will provide costs of courses and other information
+* The site will provide links to social media
+* The site will provide pdf link to class timetable
+* The site will provide a form for users to fill in for classes and enquiries
+
+### Research
+
+I conducted research into other Arcade style websites to see what colour palettes can be used and how they would structure their sites for easy navigation and a good user experience. Some of the sites I used were:
+
+* [Arcade Club](https://www.arcadeclub.co.uk/)
+* [Classic Arcade](https://www.classicarcade.co.uk/)
+* [Arcade Mania](https://arcademania.co.uk/)
+
+Insight gained from these websites:
+
+* Colourful vibrant logo
+* Neon colours used througout the site
+* Responsive fluid design
+* Easy navigation using navigation bar
+* Easy to find contact information
+* Easy to find links to social media
+
+All of the insight gained above has been utilised in my own site
+
+### Wireframes
+
+### Colour Scheme
+
+Due to my research into similar sites and target audience, I decided to go with neon classic arcade colours. Thia aesthetic is used to appeal to younger users but also to give a nostalgiac 80's arcade feel for the older dynamic. For the main colour pallette i used the [My colour space](https://mycolor.space/?hex=%23845EC2&sub=1) website. I found teh following colour pallette suited the majority of teh site:
+
+![Colour pallete used for the website](assets/images/colour-palette.png)
+
+### Typography
+
+Carrying on with the retro Arcade theme using google fonts I found the "Neanthderthaw" and "Tilt Neon" Fonts suited a "Game Over" style of writing that you would find on most classic Arcade games.
+
+
+### General
+
+* I have made the website fully responsive so that it can be used effectively on all device sizes
+* I have made sure that the text is easliy readable on all device due to the contrast in colours used
+
+### Logo
+
+I created the logo using a Neon style font that makes it look like an old sign used in most arcades. 
+
+![Arcade building club neon logo](assets/images/logo-image.png)
+
+### Navigation Bar
+
+I made sure that my navigation bar matched the rest of the we pages colour pallette and was fully responsive on all device sizes. I have also made sure that the navigation bar reduces to a burger style menu when on smaller devices. The navigation bar will consistantly stay on the right hand of teh screen on all devices. The navigation bar also has a neon blue tint when hovered over for an extra bit of appeal.
+
+![Arcade building club navigation bar](assets/images/navbar-image.png)
+
+### Home page general
+
+I created a homepage with one large hero image to immediately catch the attention of the user with colours that fit cohesively with the rest of the website. I also added an about section to make sure that the user is immediately made aware of what the club does without having to search to far for it. I added animated Icons to further add to the classic arcade game feel.
+
+![Arcade building club home page](assets/images/home-page-readme.png)
+
+![arcade building club about us section](assets/images/about-us-readme.png)
+
+
+### Footer
+
+Within my footer I made sure to include a copyright section to make the feel more realistic and proffessional. In the middle of the footer section a clickable link to a pdf document for class times in each location. On the right hadn side I have included links to all social media pages. All links in the footer have a nice neon blue effect as you hover ovber them.
+
+![Arcade building club footer section](assets/images/footer-readme.png)
+
+### Locations page
+
+On the locations page I have include a nice grid format for the pictures that line up on large screen and scale down on smaller devices. The images zoom in slightly when hovered over. I have also included a 'book now" neon blue call to action button under each image so the user can be send to the form from any part of the page.
+
+![Arcade building club location page](assets/images/locations-page-readme.png)
+
+### Classes page
+
+On the classes page I have matched the theme with the rets of the website using a grid like system which scales down dependant on the device. I have once again used 'book now' buttons under each class type to make sure the user can quickly and easily access the form. I have included specific icons which I believ tie in with the arcade theme
+
+![Arcade building club classes page](assets/images/classes-readme.png)
+
+### Contact Page
+
+On the contact us page I have made sure to include a bootstrap style form but styled it to fit in with the rest of the website. I have included multiple sections to fill in information. For better user experience, a warning message will appear unless they fill in certain information. On the right hand side of the page I have included easy to read contact details and a map location which adds more accessibility for the user.
+
+![Arcade building club contact page](assets/images/contact-page-readme.png)
+
+### Thank you page
+
+On submission of a completed form, the user will open a new tab with thank you web page. The web page contains a celebratory image and a thank you message to let the user know we have recieved their information. This page matched thematically with the rest of the website
+
+![Arcade building club thank you page](assets/images/thankyou-readme.png)
+
+### Possible features for the future:
+
+1. An embedded video showing some work being done in the arcade building club
+
+2. A roulette style image wheel on the home page
+
+# Testing
+
+## Testing during development
+
+* Throughout the coding process I made sure to continuously test my code using the Chrome developer tool. I also used VS Codes preview window for smaller changes.
+
+* I have made sure to push the code to github multiple times to test and make sure that the website works on a live link using multiple devices.
+
+* I have made sure to test my website on the main websites used today including Google Chrome, Mozilla Firefox, Safari and Microsoft Edge
+
+## Testing element of my pages
+
+* I made sure to test my logo and make sure it links back to the home page no matter what part of teh site you are on
+
+* I made sure to test my navigation bar and make sure it takes you to the correct page no matter where you are. I also wanted to make sure that it will highlight the current active page
+
+* I tested all parts of the footer. I made sure that the pdf link opens in a different tab no matter where you are on the site. I also made sure that the social links open in seperate browsers no matter where you are on the site.
+
+* I made sure to test all the buttons on both the class and locations page to make sure that they take you straight to the form filling page.
+
+* I made sure to test the form on the contact page and make sure it would request the correct informationa nd would take you to thank you page only if all information needed was enetered.
+
+* I made sure to test the interactive map and make sure that it can be opened and siplayed on any device
+
+# Validator testing
+
+
+
+
+
+
+
+
+
+
+
+
 ## Bugs found and solved:
 1. Could not change color of logos by targeting nav links due to bootstrap override:
 
