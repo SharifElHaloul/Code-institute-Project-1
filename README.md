@@ -188,11 +188,13 @@ I tested the home page on the W3 validitor and had only one error:
 
 This is only due to the fact that I used sections instead of divs in certain locations which, according to my research, is fine
 
-I then tested the locations and classes pages on the w3 validator whcih returned the following errors:
+I then tested the locations, classes and contact pages on the w3 validator whcih returned the following errors:
 
 ![locations W3 errors](assets/images/locations-page-bugs-readme.png)
 
 According to my reeasrch there is no immediate way around this if you want a button that links to another page without Javascript code. I attempted to just use an anchor tag and type of button but this still came up with an error.
+
+
 
 
 
