@@ -81,6 +81,20 @@ All of the insight gained above has been utilised in my own site
 
 ### Wireframes
 
+I started with the mobile version of my app and worked up to a desktop version. Here are examples of each device design that I came up with:
+
+#### Mobile
+
+![Mobile device wireframe](assets/images/mobile-balsamic.png)
+
+#### Tablet
+
+![Tablet device wireframe](assets/images/tablet-balsamic.png)
+
+#### Desktop
+
+![Desktop device wireframe](assets/images/desktop-balsamic.png)
+
 ### Colour Scheme
 
 Due to my research into similar sites and target audience, I decided to go with neon classic arcade colours. Thia aesthetic is used to appeal to younger users but also to give a nostalgiac 80's arcade feel for the older dynamic. For the main colour pallette i used the [My colour space](https://mycolor.space/?hex=%23845EC2&sub=1) website. I found teh following colour pallette suited the majority of teh site:
