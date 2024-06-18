@@ -1,4 +1,4 @@
-# Sharif El Haloul Arcade Building Club Website
+# Sharif El Haloul (Arcade Building Club Website)
 
 This is my Milestone 1 project. I have chosen a website that allows users to join or enquire about an Arcade machine building club. To keep it nice and simple I have created four simple pages where they can find out about the club and also book classes. I have used the bootsrap style mobile first design as it is becoming more and more common for users to be looking at the application using this device.
 
