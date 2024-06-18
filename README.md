@@ -9,18 +9,18 @@ This is my Milestone 1 project. I have chosen a website that allows users to joi
 
 ## Table of Contents
 
-1. [Planning & Development]()
-2. [Features]()
-3. [Testing]()
-4. [Deployment]()
-5. [Languages]()
-6. [Media Queries]()
-7. [Software]()
-8. [Code]()
-9. [Credits]()
+1. [Planning & Development](#planning--development)
+2. [Features](#features)
+3. [Testing](#testing)
+4. [Deployment](#deployment)
+5. [Languages](#languages)
+6. [Media Queries](#media-queries)
+7. [Software](#software)
+8. [Code](#code)
+9. [Credits](#credits)
 
 
-# Planning & Development
+# Planning & Development #
 
 ### Strategy
 
@@ -91,6 +91,7 @@ Due to my research into similar sites and target audience, I decided to go with 
 
 Carrying on with the retro Arcade theme using google fonts I found the "Neanthderthaw" and "Tilt Neon" Fonts suited a "Game Over" style of writing that you would find on most classic Arcade games.
 
+# Features
 
 ### General
 
@@ -154,7 +155,7 @@ On submission of a completed form, the user will open a new tab with thank you w
 
 2. A roulette style image wheel on the home page
 
-# Testing
+# Testing #
 
 ## Testing during development
 
@@ -178,46 +179,7 @@ On submission of a completed form, the user will open a new tab with thank you w
 
 * I made sure to test the interactive map and make sure that it can be opened and siplayed on any device
 
-# Validator testing
-
-I tested the home page on the W3 validitor and had only one error:
-
-* certain sections lack headers 
-
-![lacking headers W3 error](assets/images/w3-header.png)
-
-This is only due to the fact that I used sections instead of divs in certain locations which, according to my research, is fine
-
-I then tested the locations, classes and contact pages on the w3 validator whcih returned the following errors:
-
-![locations W3 errors](assets/images/locations-page-bugs-readme.png)
-
-According to my reeasrch there is no immediate way around this if you want a button that links to another page without Javascript code. I attempted to just use an anchor tag and type of button but this still came up with an error.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Bugs found and solved:
+## Bugs found and solved during coding
 1. Could not change color of logos by targeting nav links due to bootstrap override:
 
 ```css
@@ -285,5 +247,134 @@ fontjoy.com for font pairing
 pexels.com for arcade images for website
 
 fonts.google.com for fonts
+
+# Validator testing #
+
+I tested the home page on the W3 validitor and had only one error:
+
+* certain sections lack headers 
+
+![lacking headers W3 error](assets/images/w3-header.png)
+
+This is only due to the fact that I used sections instead of divs in certain locations which, according to my research, is fine
+
+I then tested the locations, classes and contact pages on the w3 validator whcih returned the following errors:
+
+![locations W3 errors](assets/images/locations-page-bugs-readme.png)
+
+According to my reeasrch there is no immediate way around this if you want a button that links to another page without Javascript code. I attempted to just use an anchor tag and type of button but this still came up with an error.
+
+I then tested my CSS on the CSS jigsaw site and came back with one error which was easily corrected by simply removing it:
+
+![CSS Jigsaw errors](assets/images/jigsaw-error.png)
+
+Here is the result after solving:
+
+![CSS jigsaw error solved](assets/images/jigsaw-error-solved.png)
+
+# Performance testing #
+
+### Desktop
+
+Tested the Desktop performance on Lighthouse and got the following result:
+
+![desktop performance score](assets/images/desktop-lighthouse.png)
+
+I can improve this score in the future by resizing the images and setting image sizes rather than keeping them flexible with img fluid property
+
+### Mobile
+
+Tested the Mobile performance on Lighthouse and got the following result:
+
+![mobile performance score](assets/images/mobile-lighthouse.png)
+
+As above, I can improve this score slightly by resizing the images
+
+# Deployment #
+
+## Github pages
+
+I used GitHub pages to deploy my site. This required me to go to my project repository and then:
+1. Click on the 'Settings' tab.
+2. Select 'Pages' from the menu that appears on the left.
+3. Select 'Deploy from a branch'.
+4. Select 'Main' in the drop-down menu called 'Select Branch'.
+5. Then alongside 'Main', there is a folder dropdown where you select '/Root'.
+6. Click 'Save' button.
+7. Refresh the page and a link to the live project will appear at the top of the page.
+
+## Forking a GitHub repository
+Forking allows users to make a copy of an original repository in GitHub and view and make changes to it without changing the original repository.
+To create a fork:
+1. Once logged into GitHub, follow the link to your chosen GitHub repository, or use the search bar to find it on the GitHub home page.
+2. Once in the repository window, click the 'Fork' drop down arrow button in the top right-hand corner.
+3. Select 'Create new fork'.
+4. Check the details in the window before clicking the green 'Create Fork' button.
+5. You will now be able to find the copy of the repository in your own GitHub account.
+
+## Making a Local Clone
+1. Once logged into GitHub, follow the link to your chosen GitHub repository, or use the search bar to find it on the GitHub home page.
+2. Once in the repository window, click the green 'Code' button.
+3. To clone the repository using HTTPS, copy the link provided below the HTTPS header.
+4. Open a terminal in your code editor.
+5. Change the location in the current working directory to where you want the cloned directory to be created.
+6. Type "git clone" into the terminal, and then paste the URL you copied and click enter.
+7. This should have created a local clone of the repository.
+
+# Languages #
+
+* I used HTML and CSS for the main bulk of the website
+* I also used Bootstrap Version 4.2 to help pad out and create a more user friendly site
+
+# Media Queries #
+
+I used media queries to override any bootstrap or code that was preventing my site being responsive and tidy on all devices
+
+# Software #
+
+* I used Visual Studio Code to creat, edit, preview and push all of my code to my repository
+* Git and Github for version control
+* I used Balsamic for my wrieframes and initial designs
+
+# Code #
+
+* Navigation bar was created using and tailoring elements of bootstrap
+* Footer was created using and tailoring elements of bootstrap
+* I followed along with the 'Love Running' Exercise for some other elements of the website whenever I got confused
+
+# Credits #
+
+* The three arcade themed websites mentioned earlier
+* FontJoy for font pairings used
+* Pexels.com For all images used
+
+## Thanks to:
+
+* Martina Terlevic my CI mentor whos advice was invaluable
+* Manuel Perez Romero for his guidance and feedback during this time
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
