@@ -1,10 +1,10 @@
 # Sharif El Haloul (Arcade Building Club Website)
 
-This is my Milestone 1 project. I have chosen a website that allows users to join or enquire about an Arcade machine building club. To keep it nice and simple I have created four simple pages where they can find out about the club and also book classes. I have used the bootsrap style mobile first design as it is becoming more and more common for users to be looking at the application using this device.
+This is my Milestone 1 project. I have chosen a website that allows users to join or enquire about an Arcade machine building club. To keep it nice and simple I have created four simple pages where they can find out about the club and also book classes. I have used the bootstrap style mobile first design as it is becoming more and more common for users to be looking at the application using this device.
 
 ![Screen mock-ups of Arcade Building Club website](assets/images/device-images.png)
 
-[Link to Arcade Building club live wesbite](https://sharifelhaloul.github.io/Code-institute-Project-1/)
+[Link to Arcade Building club live website](https://sharifelhaloul.github.io/Code-institute-Project-1/)
 
 
 ## Table of Contents
@@ -24,11 +24,11 @@ This is my Milestone 1 project. I have chosen a website that allows users to joi
 
 ### Strategy
 
-I wanted to create a website that put users first. Making sure that on every page there is a call to action that allows the suer to get wherever they need to go. I have also created easy to access rsources and links which makes the website more fluid.
+I wanted to create a website that put users first. Making sure that on every page there is a call to action that allows the user to get wherever they need to go. I have also created easy to access resources and links which makes the website more fluid.
 
 ### Target Audience
 
-I wanted to target a wide variety of ages of people who have a keen interest in either classic gaming or building projects. My target audience for classic gaming will mopst likely be middle aged to younger users. Due to this, I needed to make sure that my web page is fully responsive and aesthetically pleasing.
+I wanted to target a wide variety of ages of people who have a keen interest in either classic gaming or building projects. My target audience for classic gaming will most likely be middle aged to younger users. Due to this, I needed to make sure that my web page is fully responsive and aesthetically pleasing.
 
 ### User stories 
 
@@ -47,14 +47,14 @@ I wanted to target a wide variety of ages of people who have a keen interest in 
 * Easy to navigate through the different pages
 * Provide the users with contact information
 * To provide accessibility for screen readers
-* Links to social media and seperate timetable pdf
+* Links to social media and separate timetable pdf
 
 ### Approach
 
 * The information provided on the site will be displayed in manner that fits with the research done prior to starting the project
 * The site will be created following the principals of user experience design
 * The site will be easy to navigate and clear for all user ages
-* The site will provide inofrmation on club sites
+* The site will provide information on club sites
 * The site will provide costs of courses and other information
 * The site will provide links to social media
 * The site will provide pdf link to class timetable
@@ -71,7 +71,7 @@ I conducted research into other Arcade style websites to see what colour palette
 Insight gained from these websites:
 
 * Colourful vibrant logo
-* Neon colours used througout the site
+* Neon colours used throughout the site
 * Responsive fluid design
 * Easy navigation using navigation bar
 * Easy to find contact information
@@ -97,20 +97,20 @@ I started with the mobile version of my app and worked up to a desktop version. 
 
 ### Colour Scheme
 
-Due to my research into similar sites and target audience, I decided to go with neon classic arcade colours. Thia aesthetic is used to appeal to younger users but also to give a nostalgiac 80's arcade feel for the older dynamic. For the main colour pallette i used the [My colour space](https://mycolor.space/?hex=%23845EC2&sub=1) website. I found teh following colour pallette suited the majority of teh site:
+Due to my research into similar sites and target audience, I decided to go with neon classic arcade colours. This aesthetic is used to appeal to younger users but also to give a nostalgic 80's arcade feel for the older dynamic. For the main colour palette I used the [My colour space](https://mycolor.space/?hex=%23845EC2&sub=1) website. I found the following colour pallette suited the majority of the site:
 
 ![Colour pallete used for the website](assets/images/colour-palette.png)
 
 ### Typography
 
-Carrying on with the retro Arcade theme using google fonts I found the "Neanthderthaw" and "Tilt Neon" Fonts suited a "Game Over" style of writing that you would find on most classic Arcade games.
+Carrying on with the retro Arcade theme using Google Fonts I found the "Neanthderthaw" and "Tilt Neon" Fonts suited a "Game Over" style of writing that you would find on most classic Arcade games.
 
 # Features
 
 ### General
 
 * I have made the website fully responsive so that it can be used effectively on all device sizes
-* I have made sure that the text is easliy readable on all device due to the contrast in colours used
+* I have made sure that the text is easily readable on all device due to the contrast in colours used
 
 ### Logo
 
@@ -120,13 +120,13 @@ I created the logo using a Neon style font that makes it look like an old sign u
 
 ### Navigation Bar
 
-I made sure that my navigation bar matched the rest of the we pages colour pallette and was fully responsive on all device sizes. I have also made sure that the navigation bar reduces to a burger style menu when on smaller devices. The navigation bar will consistantly stay on the right hand of teh screen on all devices. The navigation bar also has a neon blue tint when hovered over for an extra bit of appeal.
+I made sure that my navigation bar matched the rest of the pages colour palette and was fully responsive on all device sizes. I have also made sure that the navigation bar reduces to a burger style menu when on smaller devices. The navigation bar will consistently stay on the right hand of the screen on all devices. The navigation bar also has a neon blue tint when hovered over for an extra bit of appeal.
 
 ![Arcade building club navigation bar](assets/images/navbar-image.png)
 
 ### Home page general
 
-I created a homepage with one large hero image to immediately catch the attention of the user with colours that fit cohesively with the rest of the website. I also added an about section to make sure that the user is immediately made aware of what the club does without having to search to far for it. I added animated Icons to further add to the classic arcade game feel.
+I created a homepage with one large hero image to immediately catch the attention of the user with colours that fit cohesively with the rest of the website. I also added an about section to make sure that the user is immediately made aware of what the club does without having to search too far for it. I added animated Icons to further add to the classic arcade game feel.
 
 ![Arcade building club home page](assets/images/home-page-readme.png)
 
@@ -135,7 +135,7 @@ I created a homepage with one large hero image to immediately catch the attentio
 
 ### Footer
 
-Within my footer I made sure to include a copyright section to make the feel more realistic and proffessional. In the middle of the footer section a clickable link to a pdf document for class times in each location. On the right hadn side I have included links to all social media pages. All links in the footer have a nice neon blue effect as you hover ovber them.
+Within my footer I made sure to include a copyright section to make the feel more realistic and professional. In the middle of the footer section a clickable link to a pdf document for class times in each location. On the right hand side I have included links to all social media pages. All links in the footer have a nice neon blue effect as you hover over them.
 
 ![Arcade building club footer section](assets/images/footer-readme.png)
 
@@ -147,7 +147,7 @@ On the locations page I have include a nice grid format for the pictures that li
 
 ### Classes page
 
-On the classes page I have matched the theme with the rets of the website using a grid like system which scales down dependant on the device. I have once again used 'book now' buttons under each class type to make sure the user can quickly and easily access the form. I have included specific icons which I believ tie in with the arcade theme
+On the classes page I have matched the theme with the rest of the website using a grid like system which scales down dependant on the device. I have once again used 'book now' buttons under each class type to make sure the user can quickly and easily access the form. I have included specific icons which I believe tie in with the arcade theme
 
 ![Arcade building club classes page](assets/images/classes-readme.png)
 
@@ -159,7 +159,7 @@ On the contact us page I have made sure to include a bootstrap style form but st
 
 ### Thank you page
 
-On submission of a completed form, the user will open a new tab with thank you web page. The web page contains a celebratory image and a thank you message to let the user know we have recieved their information. This page matched thematically with the rest of the website
+On submission of a completed form, the user will open a new tab with thank you web page. The web page contains a celebratory image and a thank you message to let the user know we have received their information. This page matched thematically with the rest of the website
 
 ![Arcade building club thank you page](assets/images/thankyou-readme.png)
 
@@ -175,26 +175,26 @@ On submission of a completed form, the user will open a new tab with thank you w
 
 * Throughout the coding process I made sure to continuously test my code using the Chrome developer tool. I also used VS Codes preview window for smaller changes.
 
-* I have made sure to push the code to github multiple times to test and make sure that the website works on a live link using multiple devices.
+* I have made sure to push the code to Github multiple times to test and make sure that the website works on a live link using multiple devices.
 
 * I have made sure to test my website on the main websites used today including Google Chrome, Mozilla Firefox, Safari and Microsoft Edge
 
 ## Testing element of my pages
 
-* I made sure to test my logo and make sure it links back to the home page no matter what part of teh site you are on
+* I made sure to test my logo and make sure it links back to the home page no matter what part of the site you are on
 
 * I made sure to test my navigation bar and make sure it takes you to the correct page no matter where you are. I also wanted to make sure that it will highlight the current active page
 
-* I tested all parts of the footer. I made sure that the pdf link opens in a different tab no matter where you are on the site. I also made sure that the social links open in seperate browsers no matter where you are on the site.
+* I tested all parts of the footer. I made sure that the pdf link opens in a different tab no matter where you are on the site. I also made sure that the social links open in separate browsers no matter where you are on the site.
 
 * I made sure to test all the buttons on both the class and locations page to make sure that they take you straight to the form filling page.
 
-* I made sure to test the form on the contact page and make sure it would request the correct informationa nd would take you to thank you page only if all information needed was enetered.
+* I made sure to test the form on the contact page and make sure it would request the correct information and would take you to thank you page only if all information needed was entered.
 
-* I made sure to test the interactive map and make sure that it can be opened and siplayed on any device
+* I made sure to test the interactive map and make sure that it can be opened and displayed on any device
 
 ## Bugs found and solved during coding
-1. Could not change color of logos by targeting nav links due to bootstrap override:
+1. Could not change colour of logos by targeting nav links due to bootstrap override:
 
 ```css
 .nav-link a {
@@ -219,7 +219,7 @@ as above I had to change to make sure to specifically target links to make sure 
                         </li>
 ```
 
-3. Could not seem to centre align text in my divs that had bootstrap columns assigned to them no matter how specifically I targEted them. After much searching I found the bootsrap "text-center" class which fixed this:
+3. Could not seem to centre align text in my divs that had bootstrap columns assigned to them no matter how specifically I targeted them. After much searching I found the bootsrap "text-center" class which fixed this:
 
 ```HTML
 
@@ -254,7 +254,7 @@ after:
 
 ## code: 
 
-## wesbites used:
+## websites used:
 
 fontjoy.com for font pairing
 
@@ -264,7 +264,7 @@ fonts.google.com for fonts
 
 # Validator testing #
 
-I tested the home page on the W3 validitor and had only one error:
+I tested the home page on the W3 validator and had only one error:
 
 * certain sections lack headers 
 
@@ -272,11 +272,11 @@ I tested the home page on the W3 validitor and had only one error:
 
 This is only due to the fact that I used sections instead of divs in certain locations which, according to my research, is fine
 
-I then tested the locations, classes and contact pages on the w3 validator whcih returned the following errors:
+I then tested the locations, classes and contact pages on the w3 validator which returned the following errors:
 
 ![locations W3 errors](assets/images/locations-page-bugs-readme.png)
 
-According to my reeasrch there is no immediate way around this if you want a button that links to another page without Javascript code. I attempted to just use an anchor tag and type of button but this still came up with an error.
+According to my research there is no immediate way around this if you want a button that links to another page without Javascript code. I attempted to just use an anchor tag and type of button but this still came up with an error.
 
 I then tested my CSS on the CSS jigsaw site and came back with one error which was easily corrected by simply removing it:
 
@@ -346,9 +346,9 @@ I used media queries to override any bootstrap or code that was preventing my si
 
 # Software #
 
-* I used Visual Studio Code to creat, edit, preview and push all of my code to my repository
+* I used Visual Studio Code to create, edit, preview and push all of my code to my repository
 * Git and Github for version control
-* I used Balsamic for my wrieframes and initial designs
+* I used Balsamic for my wireframes and initial designs
 
 # Code #
 
@@ -364,7 +364,7 @@ I used media queries to override any bootstrap or code that was preventing my si
 
 ## Thanks to:
 
-* Martina Terlevic my CI mentor whos advice was invaluable
+* Martina Terlevic my CI mentor whose advice was invaluable
 * Manuel Perez Romero for his guidance and feedback during this time
 
 
