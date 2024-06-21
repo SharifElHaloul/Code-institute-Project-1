@@ -276,7 +276,11 @@ I then tested the locations, classes and contact pages on the w3 validator which
 
 ![locations W3 errors](assets/images/locations-page-bugs-readme.png)
 
-According to my research there is no immediate way around this if you want a button that links to another page without Javascript code. I attempted to just use an anchor tag and type of button but this still came up with an error.
+I solved this on both my locations and classes page:
+
+![locations W3 solved](assets/images/locations-page-solved.png)
+
+Note: I could not solve this on my contacts page as I needed a button that submits but also links to my thank you page. Without javascript I could not do this without brining up a w3 error.
 
 I then tested my CSS on the CSS jigsaw site and came back with one error which was easily corrected by simply removing it:
 
