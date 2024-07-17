@@ -286,6 +286,7 @@ h2 {
 .classes ul {
     list-style-position: inside;
     padding-right: 30px;
+    padding-left: 30px;
     padding-top: 20px;
     padding-bottom: 10px;
     color: #fafafa;
@@ -301,7 +302,7 @@ h2 {
 
 
 .classes img {
-    height: 35%;
+     
     
     
 }
